@@ -72,6 +72,11 @@
                             <i class="bi bi-circle"></i><span>User</span>
                         </a>
                     </li>
+                    {{--  <li>
+                        <a href="#">
+                            <i class="bi bi-circle"></i><span>Roles</span>
+                        </a>
+                    </li>  --}}
                     <li>
                         <a href="/category">
                             <i class="bi bi-circle"></i><span>Category</span>
